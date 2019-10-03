@@ -1,0 +1,1 @@
+# firebase-id-token-generator
